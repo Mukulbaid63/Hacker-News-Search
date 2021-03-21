@@ -14,4 +14,10 @@
 - The app is responsive in different viewports.
 - Scope of UI and functional improvements are there.
 
+## Assumptions & Limitations:
+- Virtual Scroll depends on the no. of items(limit can be modified as per our wish) given as output by API(Pagination can be a alternative to this).
+- The second and third dropdown are not functioning for the time being,they are kept there for the more similar replica of the real version.
+- The Job,Story,Poll,Comment and other tags are kept in the first dropdown through which user can filter data.
+ 
+
 ### Visit the app here: <a href="https://hackernewssearch.vercel.app/">Link 
